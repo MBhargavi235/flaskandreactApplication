@@ -1,3 +1,4 @@
+# https://www.youtube.com/watch?v=msEmUtYqVV0
 # pip install flask
 # pip install Flask-SQLAlchemy
 #  pip install psycopg2
